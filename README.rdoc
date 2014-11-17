@@ -1,0 +1,6 @@
+== README
+ 
+Bài tập về nhà cho buổi 5	
+- Tạo mới project sample_app	
+- Hoàn thành phần static pages: home, help, contact, about	
+- Sử dụng application layout	
